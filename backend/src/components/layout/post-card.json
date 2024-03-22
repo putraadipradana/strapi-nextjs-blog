@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_post_cards",
+  "info": {
+    "displayName": "Post Card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "subHeading": {
+      "type": "string"
+    }
+  }
+}
